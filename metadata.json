@@ -1,0 +1,6 @@
+{
+  "name": "TRI-WAR STRATEGY",
+  "description": "A deep turn-based RTS inspired by Warcraft 3. Features Elves, Orcs, and Undead and 3-player competitive play on procedurally generated maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
